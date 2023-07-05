@@ -4,7 +4,17 @@ Hi 👋 My name is Sunday Kevin
 Fulls-Stack Developer
 ---------------------
 
-Hey there! I'm Kevin, and I'm passionate about building awesome websites as a full-stack web developer. I love creating user-friendly interfaces and making sure everything looks pixel-perfect. I've got a solid foundation in HTML, CSS, and JavaScript, which helps me bring designs to life. From wireframes to polished layouts, I pay attention to the little details to make sure everything looks and works great. On the back end, I work with languages like JavaScript (Node.js) and frameworks like Express. I enjoy building robust server-side solutions, creating APIs, and working with databases like MongoDB. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the industry. I like exploring new tools and frameworks that can make my coding life easier and help me solve problems more efficiently. When I'm not coding, I enjoy watching tech-related content on platforms like youtube and TikTok, reading whatever piece of literature I find exciting or most times, just taking a good nap to ease my mind. I believe in finding a balance between work and personal life because it fuels my creativity and personal growth. I'm currently on the lookout for new opportunities to apply my skills and be a part of exciting projects. If you have a challenging problem to solve or a cool idea you want to bring to life, let's connect and make something amazing together! I am looking forward to connecting with you!
+Hey there! I'm Kevin, and I'm passionate about building awesome websites as a full-stack web developer. I love creating user-friendly interfaces and making sure everything looks pixel-perfect. 
+
+I've got a solid foundation in HTML, CSS, and JavaScript, which helps me bring designs to life. From wireframes to polished layouts, I pay attention to the little details to make sure everything looks and works great. 
+
+On the back end, I work with languages like JavaScript (Node.js) and frameworks like Express. I enjoy building robust server-side solutions, creating APIs, and working with databases like MongoDB. 
+
+I'm always eager to learn and stay up-to-date with the latest trends and technologies in the industry. I like exploring new tools and frameworks that can make my coding life easier and help me solve problems more efficiently. 
+
+When I'm not coding, I enjoy watching tech-related content on platforms like youtube and TikTok, reading whatever piece of literature I find exciting or most times, just taking a good nap to ease my mind. I believe in finding a balance between work and personal life because it fuels my creativity and personal growth. 
+
+I'm currently on the lookout for new opportunities to apply my skills and be a part of exciting projects. If you have a challenging problem to solve or a cool idea you want to bring to life, let's connect and make something amazing together! I am looking forward to connecting with you!
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [sundaykevinneza@gmail.com](mailto:sundaykevinneza@gmail.com )
