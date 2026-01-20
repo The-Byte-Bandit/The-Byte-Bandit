@@ -1,58 +1,89 @@
-Hi 👋 My name is Sunday Kevin
-=============================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=f97316&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Sunday+Kevin+Neza;Full-Stack+Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps;React+%7C+Node.js+%7C+TypeScript+%7C+AI+Integrations" alt="Typing SVG" />
+</div>
 
-Fulls-Stack Developer
----------------------
+<br/>
 
-Hey there! I'm Kevin, and I'm passionate about building awesome websites as a full-stack web developer. I love creating user-friendly interfaces and making sure everything looks pixel-perfect. 
+<div align="center">
+  <a href="https://sundaykevinneza.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Now-orange?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sundaykevinneza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%40sundaykevinneza@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/The-Byte-Bandit" target="_blank">
+    <img src="https://img.shields.io/github/followers/The-Byte-Bandit?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" alt="GitHub followers" />
+  </a>
+</div>
 
-I've got a solid foundation in HTML, CSS, and JavaScript, which helps me bring designs to life. From wireframes to polished layouts, I pay attention to the little details to make sure everything looks and works great. 
+<br/>
 
-On the back end, I work with languages like JavaScript (Node.js) and frameworks like Express. I enjoy building robust server-side solutions, creating APIs, and working with databases like MongoDB. 
+### 👨‍💻 About Me
+Passionate **Full-Stack Software Engineer** from Nigeria 🇳🇬, crafting pixel-perfect, user-friendly web & mobile experiences. I specialize in the **MERN stack** (with TypeScript love ❤️), building scalable apps, RESTful APIs, and AI-powered tools.
 
-I'm always eager to learn and stay up-to-date with the latest trends and technologies in the industry. I like exploring new tools and frameworks that can make my coding life easier and help me solve problems more efficiently. 
+- 🔭 Currently building: AI-driven web apps & exploring mobile (React Native / Flutter)
+- 🌱 Learning & leveling up: Advanced TypeScript, Next.js, system design, performance optimization
+- 💬 Ask me about: React, Node/Express, MongoDB/PostgreSQL, Tailwind, Framer Motion, OpenAI integrations
+- 📫 Reach me: **sundaykevinneza@gmail.com**
+- ⚡ Fun fact: I recharge with tech YouTube/TikTok binges, good books, or epic naps 😴
 
-When I'm not coding, I enjoy watching tech-related content on platforms like youtube and TikTok, reading whatever piece of literature I find exciting or most times, just taking a good nap to ease my mind. I believe in finding a balance between work and personal life because it fuels my creativity and personal growth. 
+Open to **remote collaborations**, freelance, or exciting full-time roles. Let's build something amazing!
 
-I'm currently on the lookout for new opportunities to apply my skills and be a part of exciting projects. If you have a challenging problem to solve or a cool idea you want to bring to life, let's connect and make something amazing together! I am looking forward to connecting with you!
+<br/>
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [sundaykevinneza@gmail.com](mailto:sundaykevinneza@gmail.com )
-* 🚀  I'm currently working on [My portfolio](http://"comingsoon")
-* 🤝  I'm open to collaborating on Any remote project.
+### 🛠️ Tech Stack
 
-<a href="https://www.github.com/The-Byte-Bandit" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/The-Byte-Bandit?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="NodeJS" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="50" height="50" alt="Express" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50" alt="Flutter" /></a>
+  <!-- Add more if you want: PostgreSQL, Redux, Framer Motion, etc. -->
 </p>
 
+<br/>
 
-### Socials
+### 🔥 GitHub Stats & Activity
 
-<p align="left"> <a href="https://www.codepen.io/Sunday-Kevin-Neza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/The-Byte-Bandit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Byte-Bandit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Byte-Bandit&theme=radical&hide_border=true" height="180" alt="streak graph" />
+</div>
 
-### Badges
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Byte-Bandit&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="http://www.github.com/The-Byte-Bandit"><img src="https://github-readme-stats.vercel.app/api?username=The-Byte-Bandit&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="The-Byte-Bandit's GitHub stats" /></a>
+### 🌟 Featured Projects
+Check out my live work → [Portfolio](https://sundaykevinneza.vercel.app/)
 
-<a href="http://www.github.com/The-Byte-Bandit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Byte-Bandit&stroke=ffffff&background=22272e&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- **CureCode AI** — Clinical AI for mental healthcare (React, OpenAI, Tailwind)
+- **TrueScan AI** — AI-powered fact-checker web app
+- **Swiphr Vendor Dashboard** — Full eCommerce CMS with CRUD (React + Node)
+- **ClickGuard** — URL security & scanning tool → [Live](https://click-guard.vercel.app/)
+- **Brightspace** — Modern landing page for retirement firm → [Live](https://bright-space.vercel.app/)
 
-<a href="http://www.github.com/The-Byte-Bandit"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=The-Byte-Bandit&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+More on the way — including mobile experiments 🚀
 
-<a href="https://github.com/The-Byte-Bandit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Byte-Bandit&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevin--neza" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt="LinkedIn" /></a>
+  <a href="https://github.com/The-Byte-Bandit" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" alt="GitHub" /></a>
+  <!-- Add Twitter/X if you want: <a href="https://twitter.com/the_byte_bandit"><img src="..." width="50" height="50" alt="X" /></a> -->
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=The-Byte-Bandit&label=Profile+Views&color=f97316&style=flat-square" alt="Profile views" />
+</div>
+
+Thanks for stopping by! 🌟 Star ⭐ my repos if you find them useful, and hit me up for collabs!
